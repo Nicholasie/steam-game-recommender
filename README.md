@@ -1,13 +1,13 @@
 # Steam Game Recommender
  
 ## Overview
-A machine learning project that analyses [X,000] Steam games to:
+A machine learning project that analyses over 15,000 Steam games to:
 - Predict a game's rating score (Regression)
 - Classify games as likely hits or flops (Classification)
 - Cluster similar games and recommend titles (Unsupervised Learning)
  
 ## Dataset
-[Dataset name + Kaggle link], containing [X] games and [Y] features.
+Ultimate Games Dataset (https://www.kaggle.com/datasets/rudrakumargupta/ultimate-games-dataset-15k-games-43-features), containing 15000 games and 40+ features.
  
 ## Methods
 1. Data cleaning & feature engineering (see notebooks/01, 02)
