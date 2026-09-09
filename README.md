@@ -16,9 +16,8 @@ Ultimate Games Dataset (https://www.kaggle.com/datasets/rudrakumargupta/ultimate
 4. Clustering: K-Means with PCA-assisted feature prep, elbow method for k selection
  
 ## Key Findings
-- [e.g. Genre X is the strongest predictor of rating]
-- [e.g. Regression achieved R2 of 0.XX]
-- [e.g. Classifier achieved XX% precision]
+- Regression achieved R2 of 0.033
+- Classifier achieved 79% precision
  
 ## How to Run
 ```
